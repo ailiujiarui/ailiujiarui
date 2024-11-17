@@ -34,8 +34,6 @@
 ![Spring](https://img.shields.io/badge/Spring-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Mybatis](https://img.shields.io/badge/Mybatis-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🎨 Web 开发
 ![Vue](https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
